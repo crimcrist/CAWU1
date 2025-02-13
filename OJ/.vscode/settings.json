@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "probB.C": "cpp",
+        "probA.C": "cpp",
+        "b.C": "cpp",
+        "v.C": "cpp",
+        "Varray.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
